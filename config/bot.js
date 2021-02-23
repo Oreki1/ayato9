@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        prefix: 'mh,',
+        prefix: ',',
         activity: '#MeHorny',
     },
 
